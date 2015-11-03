@@ -35,8 +35,20 @@ body, html {
 	padding-top: 20px;
 }
 
+.padright10 {
+	padding-right: 10px;
+}
+
 .bordertop {
 	border-top: 1px solid black;
+}
+
+.titleleft {
+	float: left;
+}
+
+.titleright {
+	position: relative;
 }
 
 /*
